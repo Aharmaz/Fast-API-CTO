@@ -1,0 +1,72 @@
+[
+    {
+        "firstname": "aymane",
+        "lastname": "harmaz",
+        "salary": 2000,
+        "phone": "0610681110",
+        "role": "admin",
+        "email": "aymane@gmail.com",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {
+        "firstname": "ismail",
+        "lastname": "alla",
+        "salary": 3000,
+        "phone": "0610685517",
+        "role": "admin",
+        "email": "ismail@gmail.com",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {
+        "firstname": "chifae",
+        "lastname": "mammar",
+        "salary": 2500,
+        "phone": "0710678110",
+        "role": "admin",
+        "email": "chifae@gmail.com",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {
+        "firstname": "nisrine",
+        "lastname": "charki",
+        "salary": 1500,
+        "phone": "0788481214",
+        "role": "admin",
+        "email": "nisrine@gmail.com",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {
+        "firstname": "hasna",
+        "lastname": "alami",
+        "salary": 2000,
+        "phone": "0610682223",
+        "role": "user",
+        "email": "hasna@gmail.com",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {
+        "firstname": "ayoub",
+        "lastname": "hafidi",
+        "salary": 4000,
+        "phone": "0655684714",
+        "role": "user",
+        "email": "ayoub@gmail.com",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {
+        "firstname": "ihsane",
+        "lastname": "nasri",
+        "salary": 3050,
+        "phone": "0610682025",
+        "role": "user",
+        "email": "ihsane@gmail.com",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    }
+]

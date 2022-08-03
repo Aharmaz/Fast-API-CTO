@@ -1,0 +1,36 @@
+[
+    {  
+        "name": "tesla E-back",
+        "internet_speed":0.5,
+        "speed": 60,
+        "temperature": 32,
+        "batry": 50,
+        "distance": 88,
+        "image": "bick.jpg",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {  
+        "name": "tessla  model sk",
+        "internet_speed":2,
+        "speed": 120,
+        "temperature": 28,
+        "batry": 99,
+        "distance": 550,
+        "image": "auto.jpg",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    },
+    {  
+        "name": "panoramin elevator",
+        "internet_speed":2,
+        "speed": 30,
+        "temperature": 20,
+        "batry": 100,
+        "distance": 1,
+        "image": "elevator.jpg",
+        "created_at": "2021-10-03 01:00:00-06",
+        "updated_at": "2021-10-03 01:00:00-06"
+    }
+   
+]
